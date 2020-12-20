@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525130694444",
+    "project_id": "lets-chat-938fb",
+    "storage_bucket": "lets-chat-938fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525130694444:android:f870b2fac2b71341947689",
+        "android_client_info": {
+          "package_name": "nebulaesolutions.tech.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525130694444-q42pjmdsins22v3hn5b00fhlbn4897ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhjyoSiXMhHSQJOpbUCVTTGGWOfNOkwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525130694444-q42pjmdsins22v3hn5b00fhlbn4897ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
